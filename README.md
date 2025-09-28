@@ -26,7 +26,7 @@ Best way to learn things in IT is to get hands-on experience, whether it's profe
 
 
 # Whats in my Arch Server? 
------------------
+
 I run Arch Linux on my main PC desktop. We all know Arch is known to break every now and then, sometimes it takes one command. Awhile the solution to that is backups and/or rollbacks, however that takes some space on a hard drive. So therefore, 
 
 **The Purpose:** 
